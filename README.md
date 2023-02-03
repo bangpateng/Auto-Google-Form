@@ -1,2 +1,7 @@
-# Auto-Google-Form
-Auto Google Form by Bang Pateng
+Modul Yang di Install
+
+```
+pip install pandas selenium
+```
+
+Tutorial Video Cara Pake : 
